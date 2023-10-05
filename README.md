@@ -32,4 +32,4 @@ Power-ups, etc.
 
 ## Created by 
 
-HaleyO'Hair
+Haley O'Hair
